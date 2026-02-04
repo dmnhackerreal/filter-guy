@@ -194,7 +194,7 @@ print(red)
 # Display welcome messages
 print(green + "Welcome ")
 print(light_green + "Programming by DMNHACKER")
-print(blue + "Supports Rubika v3.9.4 ")
+print(blue + "Supports Rubika v3.9.8 ")
 print(red + " Servers.....ON     ")
 print(white + '\n' + light_blue)
 print(blue)
